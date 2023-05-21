@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alsace-research
 - 👀 I’m interested in creating Geospatial Data Products that improve quality of life.
-- 🌱 I’m currently learning how to convert weather data into risk data.
+- 🌱 I’m currently learning how to convert weather data into financial risk data for: Commercial & Residential Real Estate, Insured Assets, and Agricultural Infrastructure.
 - 💞️ I’m looking to collaborate on Python, Climate Risk, Financial Risk, Climate Change, Extreme Weather, Disaster Response, and Data Engineering.
 - 📫 How to reach me: Github, Discord, or Slack.  
 

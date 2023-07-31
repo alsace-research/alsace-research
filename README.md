@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @alsace-research
-- 👀 I’m interested in creating Geospatial Data Products that improve quality of life.
-- 🌱 I’m currently learning how to convert weather data into financial risk data for: Real Estate, Farming Land, and Insured Assets.
-- 💞️ I’m looking to collaborate on Climate Risk, Financial Risk, Climate Change, Extreme Weather, Disaster Response, and Data Engineering.
-- 📫 How to reach me: Github, Discord, or Slack.  
+<div align='right'>
 
-<!---
-alsace-research/alsace-research is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Welcome to Alsace Research's GitHub
+
+</div>
+<div align='center'>
+
+| Find here | Contact me about | Also see |
+| :-- | :-- | :-- |
+| <ul><li>🏄‍♂️ data science</li><li>🛠 real estate</li><li>🌱 finance</li><li>🌱 risk</li></ul> | <ul><li>🎓 Geospatial Engineering</li><li>🤖 Machine Learning</li><li>✨ Applications leveraging GIS</li></ul> | <ul><li>🌐 <a href='https://alsace-research.github.io'>Website</a></li><li>💼 <a href='https://linkedin.com/'>LinkedIn</a></li></ul>
+
+</div>

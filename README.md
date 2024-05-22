@@ -15,7 +15,7 @@
 </div>
 <div align='center'>
 
-| Inquire | Services | Also |
+| Inquire | Services | 
 | :-- | :-- | :-- |
 | <ul><li>🏄‍♂️ Consulting Services</li><li>🛠 Data & Business</li><li>🌱 Contract Negotiation</li><li>🌱 Data-As-A-Service (DaaS) </li></ul> | <ul><li>🎓 Digital Architecture & Blueprints</li><li>🤖 BI and/or Advanced Analytics</li><li>✨ Product Design</li></ul> |
 

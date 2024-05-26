@@ -18,6 +18,7 @@
         <li>📊 Data Analytics</li>
         <li>🔍 AI & Machine Learning Solutions</li>
         <li>🌍 Geospatial Engineering</li>
+        <li>🌍 R&D for Specialized Data Products</li>
         <li>🏛 Application Development</li>
         <li>🛠️ Product Engineering</li>
         <li>🔗 API Services</li>

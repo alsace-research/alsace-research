@@ -2,7 +2,7 @@
 
 ## Welcome to Alsace Research
 
-"Geography as Strategy: Locating Alpha with Precision."
+"*Geography as Strategy: Locating Alpha with Precision.*"
 
 </div>
 

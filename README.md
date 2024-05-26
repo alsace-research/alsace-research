@@ -1,8 +1,8 @@
 <div align="center">
 
-## Welcome to TechVista Consulting
+## Welcome to Alsace Research
 
-"We drive innovation through technology to unlock business potential."
+"Geography as Strategy: Locating Alpha with Precision."
 
 </div>
 
@@ -17,8 +17,8 @@
       <ul>
         <li>📊 Data Analytics</li>
         <li>🔍 AI & Machine Learning Solutions</li>
-        <li>🌍 Geospatial Analysis</li>
-        <li>🏛 Enterprise Software Development</li>
+        <li>🌍 Geospatial Engineering</li>
+        <li>🏛 Application Development</li>
         <li>🛠️ Product Engineering</li>
         <li>🔗 API Services</li>
       </ul>
@@ -33,9 +33,9 @@
     </td>
     <td>
       <ul>
-        <li>📧 <a href='mailto:contact@techvistaconsulting.com'>Email Us</a></li>
-        <li>💼 <a href='https://linkedin.com/company/techvista-consulting'>LinkedIn</a></li>
-        <li>🌐 <a href='https://techvistaconsulting.com'>Visit Our Website</a></li>
+        <li>📧 <a href='alsace-research@gmail.com'>Email Us</a></li>
+        <li>💼 <a href='https://linkedin.com/company/alsace-research'>LinkedIn</a></li>
+        <li>🌐 <a href='https://alsace-research.github.io'>Visit Our Website</a></li>
       </ul>
     </td>
   </tr>

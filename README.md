@@ -1,12 +1,48 @@
-<div align='center'>
+<div align="center">
 
-### Welcome to Alsace Research's GitHub
+## Welcome to Alsace Research
+
+"Geography as Strategy: Locating Alpha with Precision."
 
 </div>
-<div align='center'>
 
-| Find here | Contact me about | Also see |
-| :-- | :-- | :-- |
-| <ul><li>🏄‍♂️ data science</li><li>🛠 real estate</li><li>🌱 finance</li><li>🌱 risk</li></ul> | <ul><li>🎓 Geospatial Engineering</li><li>🤖 Machine Learning</li><li>✨ Geospatial Application Development</li></ul> | <ul><li>🌐 <a href='https://alsace-research.github.io'>Website</a></li><li>💼 <a href='https://linkedin.com/'>LinkedIn</a></li></ul>
+<table align="center">
+  <tr>
+    <th>Our Services</th>
+    <th>Explore Our Expertise</th>
+    <th>Connect With Us</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>📊 Data Analytics</li>
+        <li>🔍 AI & Machine Learning Solutions</li>
+        <li>🌍 Geospatial Engineering</li>
+        <li>🏛 Product Engineering</li>
+        <li>🏛 API Services</li>
+        <li>🏛 Application Development / SaaS</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>🎓 Advanced Analytics</li>
+        <li>🤖 AI Strategy & Operationalization</li>
+        <li>🌐 Cloud Computing</li>
+        <li>📡 IoT & Automation</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>📧 <a href='mailto:alsace-research@gmail'>Email Us</a></li>
+        <li>💼 <a href='https://linkedin.com/company/alsace-research'>LinkedIn</a></li>
+        <li>🌐 <a href='https://alsace-research.github.io/'>Visit Our Website</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+Explore our case studies and discover how we've transformed businesses with cutting-edge technology solutions.
 
 </div>

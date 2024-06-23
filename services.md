@@ -1,6 +1,6 @@
 <div align="center">
 
-## Welcome to TechVista Consulting
+## Welcome to Alsace Research Consulting
 
 "We drive innovation through technology to unlock business potential."
 

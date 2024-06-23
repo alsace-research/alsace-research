@@ -5,7 +5,7 @@ them.
 
 ## Index
 
-* [Notebook 1: Seasonality of Election Years on the S&P500](seasonality_election_year.ipynb)
+* [Notebook 1: Seasonality of Election Years on the S&P500](seasonality_election_years.ipynb)
 	+ **Purpose**: Daily task management and journaling
 	+ Features: Index, weekly spreads, daily logs
 

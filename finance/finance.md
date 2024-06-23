@@ -1,18 +1,49 @@
-## Alsace Research - Finance Notebooks
-"*Code to help make equitable decision in investments*"
+<div align="center">
 
+## Welcome to Alsace Research
 
-| Notebook Title | Description | [Link](link_to_notebook.ipynb) |
-| -------- | --- | --- |
-| Seasonality of Election Years in the S&P500 | Analyzing market trends during election years. | [Seasonality of Election Years](seasonality_election_years.ipynb) |
-| Stock Market Sentiment Analysis | Using natural language processing to analyze market sentiment. | [Stock Market Sentiment](stock_market_sentiment.ipynb) |
+"*Geography as Strategy: Locating Alpha with Precision.*"
 
-**Explore Our Expertise**
+</div>
 
-We're passionate about using data science and machine learning to drive
-informed investment decisions.
+<table align="center">
+  <tr>
+    <th>Our Services</th>
+    <th>Explore Our Expertise</th>
+    <th>Connect With Us</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>📊 Data Analytics</li>
+        <li>🔍 AI & Machine Learning Solutions</li>
+        <li>🌍 Geospatial Engineering</li>
+        <li>🌍 R&D for Specialized Data Products</li>
+        <li>🏛 Application Development</li>
+        <li>🛠️ Product Engineering</li>
+        <li>🔗 API Services</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>🎓 Advanced Analytics</li>
+        <li>🤖 AI Strategy & Operationalization</li>
+        <li>🌐 Cloud Computing</li>
+        <li>📡 IoT & Automation</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>📧 <a href='alsace-research@gmail.com'>Email Us</a></li>
+        <li>💼 <a href='https://linkedin.com/company/alsace-research'>LinkedIn</a></li>
+        <li>🌐 <a href='https://alsace-research.github.io'>Visit Our Website</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-🎓 Advanced Analytics
-📈 Data Visualization
+<div align="center">
 
-[Visit our blog for more insights!](https://alsace-research.github.io/all_posts.html)
+Explore our case studies and discover how we've transformed businesses with cutting-edge technology solutions.
+
+</div>

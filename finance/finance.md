@@ -2,48 +2,13 @@
 
 ## Welcome to Alsace Research
 
-"*Geography as Strategy: Locating Alpha with Precision.*"
+### Here are some useful workflows on the top of automating stock analysis and portfolio analysis.
 
-</div>
 
-<table align="center">
-  <tr>
-    <th>Our Services</th>
-    <th>Explore Our Expertise</th>
-    <th>Connect With Us</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>📊 Data Analytics</li>
-        <li>🔍 AI & Machine Learning Solutions</li>
-        <li>🌍 Geospatial Engineering</li>
-        <li>🌍 R&D for Specialized Data Products</li>
-        <li>🏛 Application Development</li>
-        <li>🛠️ Product Engineering</li>
-        <li>🔗 API Services</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>🎓 Advanced Analytics</li>
-        <li>🤖 AI Strategy & Operationalization</li>
-        <li>🌐 Cloud Computing</li>
-        <li>📡 IoT & Automation</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>📧 <a href='alsace-research@gmail.com'>Email Us</a></li>
-        <li>💼 <a href='https://linkedin.com/company/alsace-research'>LinkedIn</a></li>
-        <li>🌐 <a href='https://alsace-research.github.io'>Visit Our Website</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+`conda env create -f environment.yml`
+`conda activate stock_analysis_env`
 
-<div align="center">
 
-Explore our case studies and discover how we've transformed businesses with cutting-edge technology solutions.
+
 
 </div>
